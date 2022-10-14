@@ -3,7 +3,9 @@
 The BTCUSD data taken from -> https://www.marketwatch.com/
 
 ** This trading environment is only for learning purpose **
-I am not a professional in this field, based on the models it seemed quite fine for me.
+
+I am not a professional in this field, based on the model outputs and the information
+it seemed quite fine for me.
 
 -----------------------------------------------------------------------------------------
 
